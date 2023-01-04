@@ -1,6 +1,9 @@
 # SAE-301
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 86a7a2a44d924013011a557d64286b86acbec390
 
 ## Composition de L'equipe
 
@@ -28,4 +31,7 @@ En plus de cette architecture principale, Nous avons conçu des onglets spécifi
 
 
 Pour réaliser ce projet, nous avons utilisé ChartJS dans une architecture HTML/CSS de base. 
+<<<<<<< HEAD
+>>>>>>> 86a7a2a44d924013011a557d64286b86acbec390
+=======
 >>>>>>> 86a7a2a44d924013011a557d64286b86acbec390
