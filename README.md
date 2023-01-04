@@ -1,12 +1,4 @@
 # SAE-301
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 86a7a2a44d924013011a557d64286b86acbec390
-=======
->>>>>>> 53dd2d509270e8adaab13b448d604da7da671e88
 
 ## Composition de L'equipe
 
