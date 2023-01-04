@@ -27,7 +27,7 @@ résolution moyen pour chaque problème et pour chaque Solveur, la proportion de
 
 ## Technologies utilisées
 
-Pour réaliser ce projet, nous avons utilisé ChartJS dans une architecture HTML/CSS de base.
+Pour réaliser ce projet, nous avons utilisé ChartJS dans une architecture HTML/CSS de base, ainsi que Parcel en tant que Bundler
 
 ## Problèmes rencontrés
 
