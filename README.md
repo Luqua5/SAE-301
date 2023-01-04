@@ -22,7 +22,10 @@ L'architecture principale est composée de 4 graphiques :
 - Taux de résolution de problèmes de chaque solveur
 - Proportion de statuts UNSUPPORTED et UNKNOWN parmi le total des echécs de chaque solveur
 
-En plus de cette architecture principale, Nous avons conçu des onglets spécifiques aux Solveurs et Problèmes. Ces onglets permettent de voir le temps de résolution moyen pour chaque problème et pour chaque Solveur, la proportion des differents statuts.
+En plus de cette architecture principale, Nous avons conçu des onglets spécifiques aux Solveurs et Problèmes. Ces onglets permettent de voir le temps de 
+résolution moyen pour chaque problème et pour chaque Solveur, la proportion des differents statuts.
+
+## Technologies utilisées
 
 Pour réaliser ce projet, nous avons utilisé ChartJS dans une architecture HTML/CSS de base.
 
