@@ -58,3 +58,14 @@ select{
 #problemes {
     width: 500px;
 }
+
+#laDiv{
+    width: 1000px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.pie {
+    width: 5O0px;
+}

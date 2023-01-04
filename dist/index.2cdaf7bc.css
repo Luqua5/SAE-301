@@ -59,4 +59,14 @@ select {
   width: 500px;
 }
 
+#laDiv {
+  width: 1000px;
+  margin: 60px auto 0;
+  display: block;
+}
+
+.pie {
+  width: 5O0px;
+}
+
 /*# sourceMappingURL=index.2cdaf7bc.css.map */
