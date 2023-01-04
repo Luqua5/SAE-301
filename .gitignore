@@ -1,0 +1,4 @@
+# ignore ALL files in ANY directory named .parcel-cache, dist, node_modules
+node_modules/
+dist/
+.parcel-cache/
