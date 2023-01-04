@@ -1,0 +1,19 @@
+body{
+    font-family: Lexend;
+}
+
+header ul {
+    display: flex;
+    justify-content: space-evenly;
+    text-transform: uppercase;
+    list-style-type: none;
+}
+
+header ul li:hover{
+    text-decoration: underline;
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+}

@@ -1,0 +1,21 @@
+body {
+  font-family: Lexend;
+}
+
+header ul {
+  text-transform: uppercase;
+  justify-content: space-evenly;
+  list-style-type: none;
+  display: flex;
+}
+
+header ul li:hover {
+  text-decoration: underline;
+}
+
+header a {
+  color: #000;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
