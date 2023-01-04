@@ -17,6 +17,7 @@ header h1 {
 header ul {
   text-transform: uppercase;
   justify-content: space-evenly;
+  padding: 30px;
   list-style-type: none;
   display: flex;
 }
@@ -66,7 +67,7 @@ select {
 }
 
 .pie {
-  width: 5O0px;
+  width: 40% !important;
 }
 
 /*# sourceMappingURL=index.2cdaf7bc.css.map */
