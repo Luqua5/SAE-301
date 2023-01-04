@@ -25,4 +25,17 @@ L'architecture principale est composée de 4 graphiques :
 En plus de cette architecture principale, Nous avons conçu des onglets spécifiques aux Solveurs et Problèmes. Ces onglets permettent de voir le temps de résolution moyen pour chaque problème et pour chaque Solveur, la proportion des differents statuts.
 
 
-Pour réaliser ce projet, nous avons utilisé ChartJS dans une architecture HTML/CSS de base. 
+Pour réaliser ce projet, nous avons utilisé ChartJS dans une architecture HTML/CSS de base.
+
+## Problèmes rencontrés
+
+-Lecture du fichier JSON 
+  -Résolution : Reprise exos et utilisation du lien du fichier sur le site
+
+-GIT
+  -Problèmes dû à l'oubli de la création d'un fichier.gitignore et au manque d'organisation
+
+-Utilisation de tableau d'objets
+  -Découverte de Object.keys() et Object.values()
+  
+ 
