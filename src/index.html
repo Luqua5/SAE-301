@@ -7,6 +7,7 @@
   <link href='https://fonts.googleapis.com/css?family=Lexend' rel='stylesheet'>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="normalize.css">
+  <link rel="stylesheet" href="index.css">
   <title>SAE 301</title>
 </head>
 <body>
@@ -20,6 +21,33 @@
       </ul>
     </header>
 
-    
+   
+  <div class="container">
+    <div class="info">
+      <div class="nbSolveurs">
+        <h1>10</h1>
+        <h2>Solveurs</h2>
+      </div>
+      <div class="nbPb">
+        <h1>200</h1>
+        <h2>Problèmes</h2>
+      </div>
+      <div class="nbFamilles">
+        <h1>21</h1>
+        <h2>Familles de problèmes</h2>
+      </div>
+      <div class="solvingRate">
+        <h1 id="globalSolvingRate"></h1>
+        <h2>Taux de réussite global</h2>
+      </div>
+    </div>
+      <div><canvas id="results"></canvas></div>
+      <div class="double">
+      <div><canvas id="avgTime"></canvas></div>
+      <div><canvas id="solvedRate"></canvas></div>
+      </div>
+      <div><canvas id="fails"></canvas></div>
+  </div>
+    <script type="module" src="global.js"></script>
 </body>
 </html>
