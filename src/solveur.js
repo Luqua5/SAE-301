@@ -67,7 +67,6 @@ function render() {
         }
         let graph = document.createElement("canvas"); //on crée le canva
         (async function () { //on met le graphique dedans
-          console.log(solveur.unknown);
               new Chart(graph, {
                 type: "pie",
                 data: {
