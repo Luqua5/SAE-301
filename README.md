@@ -29,13 +29,13 @@ Pour réaliser ce projet, nous avons utilisé ChartJS dans une architecture HTML
 
 ## Problèmes rencontrés
 
--Lecture du fichier JSON 
-  -Résolution : Reprise exos et utilisation du lien du fichier sur le site
+### Lecture du fichier JSON 
+  Résolution : Reprise exos et utilisation du lien du fichier sur le site
 
--GIT
-  -Problèmes dû à l'oubli de la création d'un fichier.gitignore et au manque d'organisation
+### GIT
+  Problèmes dû à l'oubli de la création d'un fichier.gitignore et au manque d'organisation
 
--Utilisation de tableau d'objets
-  -Découverte de Object.keys() et Object.values()
+### Utilisation de tableau d'objets
+  Découverte de Object.keys() et Object.values()
   
  
