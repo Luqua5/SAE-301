@@ -50,4 +50,11 @@ select{
     padding: 5px;
     border: black solid 1px;
     border-radius: 10px;
+    display: block;
+    margin: 0 auto !important ;
+    margin-top: 20px !important;
+}
+
+#problemes {
+    width: 500px;
 }

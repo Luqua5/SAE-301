@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Lexend" rel="stylesheet">
   <link rel="stylesheet" href="/index.2cdaf7bc.css">
   <link rel="stylesheet" href="/index.fe8261f8.css">
   <title>SAE 301</title>
@@ -19,37 +20,6 @@
       </ul>
     </header>
 
-    <script>const req = new XMLHttpRequest();
-let data = null;
-req.addEventListener("load", (evt)=>{
-    data = JSON.parse(req.responseText);
-    render();
-});
-req.open("GET", "http://www.cril.univ-artois.fr/~lecoutre/teaching/jssae/code5/results.json");
-req.send();
-let family = [];
-let familyAVG = [];
-function render() {
-    for(let i = 0; i < data[2]["data"].length; i++)if (family.indexOf(data[2]["data"][i]["family"]) == -1) family.push(data[2]["data"][i]["family"]); //si elle n'y est pas alors je la push
-    for(let j = 0; j < family.length; j++){
-        let familleMoyenne = 0; //initialise la moyenne
-        let compteur = 0; //compteur pour la division a la fin
-        for(let k = 0; k < data[2]["data"].length; k++)if (data[2]["data"][k]["family"] == family[j]) {
-            compteur += 1; //on ajoute un au compteur
-            familleMoyenne += parseInt(data[2]["data"][k]["time"]); // j'ajoute a la valeur
-        }
-        familleMoyenne /= compteur; //division finale
-        let obj = {
-            id: j,
-            name: family[j],
-            average: familleMoyenne
-        };
-        familyAVG.push(obj); //je le push dans le tableau
-    }
-    let tempsMoyen = familyAVG.map((row)=>row.average);
-    let famille = familyAVG.map((row)=>row.name);
-}
-
-</script>
+    
 <script src="/sae301.59712999.js"></script></body>
 </html>
