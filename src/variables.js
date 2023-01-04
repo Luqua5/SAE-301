@@ -40,7 +40,6 @@ function render() {
     };
     variableAVG.push(obj);
     }
-    console.log(variableAVG);
 
     function compare(a, b) {
         if (a.average < b.average) {
@@ -53,7 +52,6 @@ function render() {
     }
 
     variableAVG.sort(compare);
-    console.log(compare);
 
 
 

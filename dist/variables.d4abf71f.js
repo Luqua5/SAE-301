@@ -560,14 +560,12 @@ function render() {
         };
         variableAVG.push(obj);
     }
-    console.log(variableAVG);
     function compare(a, b) {
         if (a.average < b.average) return -1;
         if (a.average > b.average) return 1;
         return 0;
     }
     variableAVG.sort(compare);
-    console.log(compare);
     let tempsMoyen = variableAVG.map((row)=>row.average);
     let famille = variableAVG.map((row)=>row.nbVariables);
     (async function() {
