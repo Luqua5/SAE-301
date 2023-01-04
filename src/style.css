@@ -45,7 +45,7 @@ header a {
 }
 
 select{
-    font-size: 15px;
+    font-size: 20px !important;
     padding: 5px;
     border: black solid 1px;
     border-radius: 10px;
@@ -63,6 +63,8 @@ select{
     display: block;
     margin: 0 auto;
     margin-top: 60px;
+    border-radius: 50px;
+    box-shadow:  rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .pie {

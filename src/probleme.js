@@ -63,6 +63,23 @@ function render() {
           },
         ],
       },
+      options: {
+        layout: {
+          padding: {
+            top:20,
+            bottom: 50,
+            left: 50,
+            right: 50
+          }
+        },
+        plugins: {
+        title: {
+          display: true,
+          text: "Moyenne des temps de résolution pour les familles de problème"
+        }
+      }
+      },
+      
     });
   })();
 }
