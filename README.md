@@ -36,6 +36,6 @@ Pour réaliser ce projet, nous avons utilisé ChartJS dans une architecture HTML
   Problèmes dû à l'oubli de la création d'un fichier.gitignore et au manque d'organisation
 
 ### Utilisation de tableau d'objets
-  Découverte de Object.keys() et Object.values()
+  Découverte de 'Object.keys()' et 'Object.values()'
   
  
