@@ -1,4 +1,4 @@
-# SAE-301
+# SAE-303
 
 ## Composition de L'equipe
 
@@ -27,7 +27,7 @@ résolution moyen pour chaque problème et pour chaque Solveur, la proportion de
 
 ## Technologies utilisées
 
-Pour réaliser ce projet, nous avons utilisé ChartJS dans une architecture HTML/CSS de base.
+Pour réaliser ce projet, nous avons utilisé ChartJS dans une architecture HTML/CSS de base, ainsi que Parcel en tant que Bundler
 
 ## Problèmes rencontrés
 
@@ -42,7 +42,9 @@ Pour réaliser ce projet, nous avons utilisé ChartJS dans une architecture HTML
   
 ## Screenshots 
 ![Screenshot 2023-01-04 at 16-50-51 SAE 301](https://user-images.githubusercontent.com/113178225/210582900-62d08d10-cfac-4a22-a0e3-80f022662877.png)
+![Screenshot 2023-01-04 at 17-19-06 SAE 301](https://user-images.githubusercontent.com/113178225/210587917-030c2a10-fb1f-49e3-b0f3-f4d6c54bf5a8.png)
+![Screenshot 2023-01-04 at 17-18-46 SAE 301](https://user-images.githubusercontent.com/113178225/210587926-0e50bc66-e61e-4bfb-80ce-c09f0e426ccb.png)
 
-.
+
   
 
