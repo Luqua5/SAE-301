@@ -17,6 +17,7 @@ header h1 {
 header ul {
   text-transform: uppercase;
   justify-content: space-evenly;
+  padding: 30px;
   list-style-type: none;
   display: flex;
 }

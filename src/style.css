@@ -18,6 +18,7 @@ header ul {
     justify-content: space-evenly;
     text-transform: uppercase;
     list-style-type: none;
+    padding: 30px;
 }
 
 header ul li{
