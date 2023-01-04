@@ -40,6 +40,6 @@ Pour réaliser ce projet, nous avons utilisé ChartJS dans une architecture HTML
 ## Screenshots 
 ![Screenshot 2023-01-04 at 16-50-51 SAE 301](https://user-images.githubusercontent.com/113178225/210582900-62d08d10-cfac-4a22-a0e3-80f022662877.png)
 
-
+.
   
 
