@@ -33,7 +33,7 @@ Pour réaliser ce projet, nous avons utilisé ChartJS dans une architecture HTML
   Résolution : Reprise exos et utilisation du lien du fichier sur le site
 
 ### GIT
-  Problèmes dû à l'oubli de la création d'un fichier.gitignore et au manque d'organisation
+  Problèmes dû à l'oubli de la création d'un fichier `.gitignore` et au manque d'organisation
 
 ### Utilisation de tableau d'objets
   Découverte des propriétés JS `Object.keys()` et `Object.values()`
